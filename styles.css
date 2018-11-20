@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+.title {
+    font-size: 50px;
+}
+img {
+    height: 300px;
+    width: 300px;
+    padding:1px;
+   border:1px solid #021a40;
+   background-color:#ff0;
+   box-shadow: 5px 10px #888888;
+}
+.category-title{
+    font-family: 'Marck Script', cursive;
+    font-size: 40px;
+    
+}
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+.winner{
+    font-family: 'Rancho', cursive;
+    font-size: 30px;
+}
+ul{
+    list-style-position: inside;
+}
